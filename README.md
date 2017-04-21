@@ -68,9 +68,9 @@
 					</section>
 				</div>
 
-<img src="ss1" width="270" height="270" alt="Overview of the map" display="inline">
-<img src="ss2" width="270" height="270" alt="Initial capture of the screen" display="inline">
-<img src="ss3" width="270" height="270" alt="The main menu" display="inline">
-<img src="ss4" width="270" height="270" alt="The combat" display="inline">
+<img src="ss1.png" width="270" height="270" alt="Overview of the map" display="inline">
+<img src="ss2.png" width="270" height="270" alt="Initial capture of the screen" display="inline">
+<img src="ss3.png" width="270" height="270" alt="The main menu" display="inline">
+<img src="ss4.png" width="270" height="270" alt="The combat" display="inline">
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/jz40salowcc" frameborder="0" allowfullscreen></iframe>
