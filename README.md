@@ -68,15 +68,14 @@
 					</section>
 				</div>
 
-<nav>
-  <ul>
-    <li><strong>Home</strong></li>
-    <li><a href="about.html">About Us</a></li>
-    <li><a href="clients.html">Our Clients</a></li>
-    <li><a href="products.html">Our Products</a></li>
-    <li><a href="services.html">Our Services</a></li>
-    <li><a href="contact.html">Contact Us</a></li>
-  </ul>
-</nav>
+<img src="ss1" width="270" height="270" alt="Overview of the map" display="inline">
+<img src="ss2" width="270" height="270" alt="Initial capture of the screen" display="inline">
+<img src="ss3" width="270" height="270" alt="The main menu" display="inline">
+<img src="ss4" width="270" height="270" alt="The combat" display="inline">
 
+<div class="container">
+      <section id="main_content">
+        <iframe width="600" height="355" src="https://www.youtube.com/watch?v=jz40salowcc" frameborder="0" allowfullscreen=""></iframe>
+      </section>
+    </div>
 
