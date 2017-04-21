@@ -1,3 +1,27 @@
+AN 80’S CYBERPUNK 
+HACK-N-SLASH
+DEATH BATTLE ARENA
+INSPIRED BY TRON, BLOOD DRAGON, KUNG FURY 
+AND DEVIL MAY CRY.
+
+Stylized Models, Low Poly,High Quality Textures (Think Superhot) 
+Dark & Grimy Feel
+Lots of Neon/Cyberpunk Tones
+
+Use Basic attacks to build combo-meter
+Combo System allows you to chain takedowns.
+
+You are Kojin, a Ronin. With your sword, Akuma, you are sent far into the future by an Insane, Homicidal A.I. only known as Moreau. In the future, you have to fight to return.
+
+Designed to be Arena-like.
+Cyberpunk Themes
+Lots of Neon.
+
+
+
+
+
+
 <div class="container">
 					<section class="profiles">
 						<div class="row">
