@@ -73,11 +73,8 @@
 <img src="ss3" width="270" height="270" alt="The main menu" display="inline">
 <img src="ss4" width="270" height="270" alt="The combat" display="inline">
 
-<html>
-<body>
-
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=jz40salowcc">
-</iframe>
-
 </body>
 </html>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/jz40salowcc">
+</iframe>
