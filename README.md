@@ -74,11 +74,7 @@
 <img src="ss4" width="270" height="270" alt="The combat" display="inline">
 
 <body>
-
-    <header>
-        
-      <div class="container">
-        
+              
     <div class="container">
       <section id="main_content">
         <iframe width="600" height="355" src="https://www.youtube.com/watch?v=jz40salowcc" frameborder="0" allowfullscreen=""></iframe>
