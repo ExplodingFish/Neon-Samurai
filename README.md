@@ -93,8 +93,12 @@ Lots of Neon.
 				</div>
 
 <img src="ss1.png" width="270" height="270" alt="Overview of the map" display="inline">
+Overview of the map
 <img src="ss2.png" width="270" height="270" alt="Initial capture of the screen" display="inline">
+Initial capture of the game
 <img src="ss3.png" width="270" height="270" alt="The main menu" display="inline">
+The main menu
 <img src="ss4.png" width="270" height="270" alt="The combat" display="inline">
+The combat
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/jz40salowcc" frameborder="0" allowfullscreen></iframe>
