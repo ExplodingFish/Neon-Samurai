@@ -93,11 +93,11 @@ Lots of Neon.
 				</div>
 
 <img src="ss1.png" width="270" height="270" alt="Overview of the map" display="inline">
-Overview of the map
+<h4><p>Overview of the map</p></h4>
 <img src="ss2.png" width="270" height="270" alt="Initial capture of the screen" display="inline">
-Initial capture of the game
+<h4><p>Initial capture of the game</p></h4>
 <img src="ss3.png" width="270" height="270" alt="The main menu" display="inline">
-The main menu
+<h4><p>The main menu</p></h4>
 <img src="ss4.png" width="270" height="270" alt="The combat" display="inline">
 <h4><p>The combat</p></h4>
 
