@@ -101,9 +101,4 @@ Lots of Neon.
 <img src="ss4.png" width="270" height="270" alt="The combat" display="inline">
 <h4><p>The combat</p></h4>
 
-<html>
- <body>
-  <object data="https://youtu.be/mzY48FloO8c"
-   width="560" height="315"></object>
- </body>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzY48FloO8c" frameborder="0" allowfullscreen></iframe>
