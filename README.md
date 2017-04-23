@@ -103,7 +103,7 @@ Lots of Neon.
 
 <html>
  <body>
-  <iframe src="https://youtu.be/mzY48FloO8c"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+  <object data="https://youtu.be/mzY48FloO8c"
+   width="560" height="315"></object>
  </body>
 </html>
